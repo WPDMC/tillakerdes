@@ -15,3 +15,12 @@ Ezt módosítani csak a felső vezetés tudja tanulmányozni viszont a cégen be
 Ez az alkalmazás mindíg naprakészen rendelkezésre fog állni a felhasználók számára, ezt többször is ki lehet tölteni.
 A kérdőív támogat minden böngészőt, mobilbarát mac-en is elérhető és tartalmaz egyéni válaszlehetőséget.
 Sötét mód ki-be kapcsolásának lehetősége.
+
+## Funkcionális követelmények.
+Ürlapkezelés 
+1. text mező
+2. radio gombok
+3. Submit gomb
+
+Egy mysql adatbázisba a válaszok lementése és ezek publikus közzététele az oldalon.
+Sötétmód.

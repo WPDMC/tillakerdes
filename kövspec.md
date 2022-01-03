@@ -24,3 +24,7 @@ Sötét mód ki-be kapcsolásának lehetősége.
 
 Egy mysql adatbázisba a válaszok lementése és ezek publikus közzététele az oldalon.
 Sötétmód.
+
+## Követelt üzleti folyamat model
+Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
+Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
