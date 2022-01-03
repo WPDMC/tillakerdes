@@ -39,7 +39,7 @@ Engedélyszint | K3 | Értékelések megnlzése | 1.0 | Bárki megnézheti az é
 Módosítás | K4 | Sötétmód ki-be kapcsolása | 1.0 | Bárki ki-be kapcsolhatja a sötétmódot.
 
 ## Szójegyzék
-Text mező: Olyan beviteli mező ahol a felhasználó egyedi választ adhat.
-Radio gombok: Olyan beviteli mező ahol a felhasználó az előre megadott válaszok közül egyet kiválaszthat.
-Submit gomb: Adatok beküldése az ürlapról az adatbázisba.
-Sötétmód: Fekete háttér fehér betűkkel, a felhasználó szemének kímélése érdekében.
+1. Text mező: Olyan beviteli mező ahol a felhasználó egyedi választ adhat.
+2. Radio gombok: Olyan beviteli mező ahol a felhasználó az előre megadott válaszok közül egyet kiválaszthat.
+3. Submit gomb: Adatok beküldése az ürlapról az adatbázisba.
+4. Sötétmód: Fekete háttér fehér betűkkel, a felhasználó szemének kímélése érdekében.
