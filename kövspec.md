@@ -8,3 +8,9 @@ Ennek a kérdőívnek az a célja hogy a felhasználók regisztráció mentesen 
 ## Jelenlegi állapot.
 Eddig csak szóban tudták kifejteni a véleményüket ezt sajnos rögzíteni nem lehetett ezáltal a vezetés nem kapott tudomást az esetleges hiányosságokról.
 A bevételt talnulmányozva feltételezhetjük hogy van hiba csak azt nem tudjuk hogy mi is az a bizonyos hiba.
+
+## Álom rendszer.
+Ez a kérdőív megfelelő megoldás lenne hogy egy adatbázisban elmentsük név és regisztráció nélkül a felhasználói véleményeket.
+Ezt módosítani csak a felső vezetés tudja tanulmányozni viszont a cégen belül bárki.
+Ez az alkalmazás mindíg naprakészen rendelkezésre fog állni a felhasználók számára, ezt többször is ki lehet tölteni.
+A kérdőív támogat minden böngészőt, mobilbarát mac-en is elérhető és tartalmaz egyéni válaszlehetőséget.
