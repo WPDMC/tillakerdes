@@ -2,6 +2,11 @@
 1. Gyors egyszerű és hasznos kérdőív létrehozása.
 2. Pontos problémák, esetleges hibák szakszerű feltárása és javítása.
 
+## Követelmények
+
+### Funkcionális követelmények
+
+### Nem funkcionális követelmények
 
 ## Funkcionális terv
 
@@ -33,14 +38,16 @@ Programozási nyelvek:
 
 ## architektúra terv
 
+1. Frontend:
+* Design html illetve css leíró nyelveken készül
+2. Backend:
+* A rendszer egy mysql adatbázissal van összeköttetésben
+* PHP nyelvet használunk a fejlesztésre
+* A fejlesztői környezet a Visual Studio Code és az Apatche netbeans.
+
 
 
 ## Adatbázis terv
-
-
-
-
-## Implementációs terv
 
 
 

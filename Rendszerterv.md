@@ -2,6 +2,17 @@
 1. Gyors egyszerű és hasznos kérdőív létrehozása.
 2. Pontos problémák, esetleges hibák szakszerű feltárása és javítása.
 
+## Követelmények
+
+### Funkcionális követelmények
+* Minden vendég kitöltheti tapasztalatai alapján a kérdőívet, nincs szükség előzetes regisztrációra
+* A rendszer minden választ eltárol 3 évven keresztül
+
+### Nem funkcionális követelmények
+* A termék által nyújtott elvárások teljesítése
+	* Megbízhatóság
+	* Integritás megtartása
+	* Rendelkezésre állás
 
 ## Funkcionális terv
 
@@ -38,16 +49,11 @@ Programozási nyelvek:
 2. Backend:
 * A rendszer egy mysql adatbázissal van összeköttetésben
 * PHP nyelvet használunk a fejlesztésre
-* A fejlesztői környezet a Visual Studio Code és az Apatche netbeans
+* A fejlesztői környezet a Visual Studio Code és az Apatche netbeans.
 
 
 
 ## Adatbázis terv
-
-
-
-
-## Implementációs terv
 
 
 
