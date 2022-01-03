@@ -14,3 +14,4 @@ Ez a kérdőív megfelelő megoldás lenne hogy egy adatbázisban elmentsük né
 Ezt módosítani csak a felső vezetés tudja tanulmányozni viszont a cégen belül bárki.
 Ez az alkalmazás mindíg naprakészen rendelkezésre fog állni a felhasználók számára, ezt többször is ki lehet tölteni.
 A kérdőív támogat minden böngészőt, mobilbarát mac-en is elérhető és tartalmaz egyéni válaszlehetőséget.
+Sötét mód ki-be kapcsolásának lehetősége.
