@@ -18,6 +18,17 @@
 
 ## Fizikai környezet
 
+Az alkalmazás mobil készülék barát, és a legtöbb webböngésző támogatja.
+Az alkalmazás mysql adatbázist használ.
+A fejlesztői környezetek: 
+* Apatche netbeans
+* VS Code
+* dbdiagramm.io
+* php myadmin
+
+Programozási nyelvek:
+* PHP (code igniter keretrendszer)
+* SQL
 
 
 ## architektúra terv
