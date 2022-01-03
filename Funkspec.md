@@ -8,3 +8,7 @@ A véleményeket nem tudjuk sehol eltárolni, a vezetésnek eljuttatni.
 A forgalom ingadozása.
 
 
+## Képenyőterv
+Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
+Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
+
