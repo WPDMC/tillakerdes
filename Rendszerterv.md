@@ -1,3 +1,8 @@
+## A rendszer célja
+1. Gyors egyszerű és hasznos kérdőív létrehozása.
+2. Pontos problémák, esetleges hibák szakszerű feltárása és javítása.
+
+
 ## Funkcionális terv
 
 ### A rendszer karakterei
