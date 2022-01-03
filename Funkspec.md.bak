@@ -12,3 +12,9 @@ A forgalom ingadozása.
 Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
 
+## Követelt üzleti folyamat model
+Egy teljesen könnyen használható az átlag felhasználók számára is elérhető webes alkalmazás készítése és üzemeltetése.
+Ez az alkalmazás felhasznbáló barát több szempontból is pl: 
+1. sötétmód
+2. könnyen kezelhető felület.
+
