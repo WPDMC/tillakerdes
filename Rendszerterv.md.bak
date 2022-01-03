@@ -1,4 +1,25 @@
+## Funkcionális terv
 
+### A rendszer karakterei
+1. Felhasználó
+2. Admin
+
+
+
+## Fizikai környezet
+
+
+
+## architektúra terv
+
+
+
+## Adatbázis terv
+
+
+
+
+## Implementációs terv
 
 
 
@@ -13,3 +34,13 @@
 
 
 ## Telepítési terv
+Helyi adatbázis feltöltése egy kiszolgálóhoz és domain név választása.
+A weboldal eléréséhez csupán csak be kell írni az URL sávba a weboldal címét.
+
+
+
+
+## Karbantarttási terv
+
+
+
