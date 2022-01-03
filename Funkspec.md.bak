@@ -27,3 +27,8 @@ Módosítás | K2 | Kérdőív módosítása | 1.0 | Kizárólag az admin tudja 
 Engedélyszint | K3 | Értékelések megnlzése | 1.0 | Bárki megnézheti az értékeléseket.
 Módosítás | K4 | Sötétmód ki-be kapcsolása | 1.0 | Bárki ki-be kapcsolhatja a sötétmódot.
 
+## Forgatókönyv
+Három fő karatkere van ennek az alkalmazásnak
+1. Maga a futó alkalmazás, ahol a kérdőívet kitölthetik illetve megnézhetik az eddigi válaszokat.
+2. Maga a felhasznbáló, aki kitölti a kérdőívet.
+3. Az adatbázis ahol rögzítjük a válaszokat.
