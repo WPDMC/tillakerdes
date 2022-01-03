@@ -18,3 +18,12 @@ Ez az alkalmazás felhasznbáló barát több szempontból is pl:
 1. sötétmód
 2. könnyen kezelhető felület.
 
+
+## Követelmények listája.
+Modul | ID | Név | Verzió | Magyarázat
+------------ | ------------- | ------------ | ----------- | -----------
+Engedélyszint | K1 | Kérdőív kitöltése | 1.0 | Bárki kitöltheti a kérédőívet.
+Módosítás | K2 | Kérdőív módosítása | 1.0 | Kizárólag az admin tudja módosítani a kérdőívet, manuálisan.
+Engedélyszint | K3 | Értékelések megnlzése | 1.0 | Bárki megnézheti az értékeléseket.
+Módosítás | K4 | Sötétmód ki-be kapcsolása | 1.0 | Bárki ki-be kapcsolhatja a sötétmódot.
+
