@@ -37,3 +37,9 @@ Engedélyszint | K1 | Kérdőív kitöltése | 1.0 | Bárki kitöltheti a kéré
 Módosítás | K2 | Kérdőív módosítása | 1.0 | Kizárólag az admin tudja módosítani a kérdőívet, manuálisan.
 Engedélyszint | K3 | Értékelések megnlzése | 1.0 | Bárki megnézheti az értékeléseket.
 Módosítás | K4 | Sötétmód ki-be kapcsolása | 1.0 | Bárki ki-be kapcsolhatja a sötétmódot.
+
+## Szójegyzék
+Text mező: Olyan beviteli mező ahol a felhasználó egyedi választ adhat.
+Radio gombok: Olyan beviteli mező ahol a felhasználó az előre megadott válaszok közül egyet kiválaszthat.
+Submit gomb: Adatok beküldése az ürlapról az adatbázisba.
+Sötétmód: Fekete háttér fehér betűkkel, a felhasználó szemének kímélése érdekében.

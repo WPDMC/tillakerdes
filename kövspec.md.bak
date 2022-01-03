@@ -15,6 +15,7 @@ Ezt módosítani csak a felső vezetés tudja tanulmányozni viszont a cégen be
 Ez az alkalmazás mindíg naprakészen rendelkezésre fog állni a felhasználók számára, ezt többször is ki lehet tölteni.
 A kérdőív támogat minden böngészőt, mobilbarát mac-en is elérhető és tartalmaz egyéni válaszlehetőséget.
 Sötét mód ki-be kapcsolásának lehetősége.
+SSL-tanúsítvány védi az oldalt.
 
 ## Funkcionális követelmények.
 Ürlapkezelés 
@@ -28,3 +29,16 @@ Sötétmód.
 ## Követelt üzleti folyamat model
 Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
+
+## Követelmények listája
+Modul | ID | Név | Verzió | Magyarázat
+------------ | ------------- | ------------ | ----------- | -----------
+Engedélyszint | K1 | Kérdőív kitöltése | 1.0 | Bárki kitöltheti a kérédőívet.
+Módosítás | K2 | Kérdőív módosítása | 1.0 | Kizárólag az admin tudja módosítani a kérdőívet, manuálisan.
+Engedélyszint | K3 | Értékelések megnlzése | 1.0 | Bárki megnézheti az értékeléseket.
+Módosítás | K4 | Sötétmód ki-be kapcsolása | 1.0 | Bárki ki-be kapcsolhatja a sötétmódot.
+
+## Szójegyzék
+Text mező: Olyan beviteli mező ahol a felhasználó egyedi választ adhat.
+Radio gombok: Olyan beviteli mező ahol a felhasználó az előre megadott válaszok közül egyet kiválaszthat.
+Submit gomb: Adatok beküldése az ürlapról az adatbázisba.
