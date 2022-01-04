@@ -108,3 +108,6 @@ Több féle karbabtartási eljárás létezik, néhány ezek közül, melyek eze
 * Preventív karbantartás: Olyan problémák észlelése és kijavítása, melyek nem tűnhetnek komolynak, de későbbiekben komoly károkat okozhatnak.
 * Perfektív karbantartás: Új funkciók bevezetése, hosszú-távú használati támogatás, és még felhasználó barátibbá tétel.
 
+## Adatbázis terv
+
+![Database Plan](https://github.com/WPDMC/tillakerdes/blob/main/K%C3%A9pek/db.PNG)
