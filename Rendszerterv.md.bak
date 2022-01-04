@@ -62,7 +62,11 @@ Programozási nyelvek:
 
 ## Teszt terv
 
+** Tesztelő eljárások **
+** Egységes teszt **
 
+Bármikor tesztelni kell amikor csak lehetséges a fejlesztés alatt, hogy megbizonyosodjunk annak kifogástalan működéséről.
+A metódusok készen állnak amikor a teszt esetek nem dobnak hibát.
 
 
 
