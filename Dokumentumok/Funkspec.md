@@ -9,8 +9,9 @@ A forgalom ingadozása.
 
 
 ## Képenyőterv
-Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad:
+Miután beírtuk a böngészőbe hogy: www.bistorantkerdoiv.hu ez a kép fogad: ![Screen plan](https://github.com/WPDMC/tillakerdes/blob/main/K%C3%A9pek/Screenshot_1.png)
 Figyelem! Ez a kép csak illusztráció, a végső alkalmazás ettől eltérő lehet.
+
 
 ## Követelt üzleti folyamat model
 Egy teljesen könnyen használható az átlag felhasználók számára is elérhető webes alkalmazás készítése és üzemeltetése.
