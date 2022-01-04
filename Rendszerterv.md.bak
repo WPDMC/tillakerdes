@@ -68,6 +68,11 @@ Programozási nyelvek:
 Bármikor tesztelni kell amikor csak lehetséges a fejlesztés alatt, hogy megbizonyosodjunk annak kifogástalan működéséről.
 A metódusok készen állnak amikor a teszt esetek nem dobnak hibát.
 
+** Alfa teszt **
+
+Elsődleges célja az aflatesztnek az, hogy különböző böngészőkben próbáljuk ki az alkalmazást kompatilibitás szempontjából.
+A teszt sikeresnek mondható, ha ugyanazt az elvárt működést kapjuk minden böngésző esetén minden platformon.
+
 
 
 
